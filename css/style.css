@@ -1,0 +1,21 @@
+.banner {
+    padding-top: 96px;
+    padding-bottom: 64px;
+    text-align: center
+}
+
+.banner h1 {
+    margin: 0 0 24px;
+    font-weight: 400;
+    font-size: 32px
+}
+
+.banner h1 strong {
+    color: #8ab4f8
+}
+
+.banner .meta {
+    margin: 0 auto 48px;
+    font-size: 20px;
+    opacity: .76
+}
